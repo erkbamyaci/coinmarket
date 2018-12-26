@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development on PORT 8081
 ```
 npm run frontend
 ```
